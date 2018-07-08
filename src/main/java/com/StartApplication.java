@@ -12,10 +12,10 @@ public class StartApplication {
 
     private static String menu = "please input cmd:" +
             "1:all RailModel£º" +
-            "2£ºgrade" +
-            "3£ºweiche"+
+            "2£ºGerade" +
+            "3£ºWeiche"+
             "4: Abzweigung" +
-            "5: Fest" +
+            "5: Prellbock" +
             "6: exit program";
 
     public static void main(String args[]){
